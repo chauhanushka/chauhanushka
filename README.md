@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anushka Chauham.
 - 👀 I’m interested in Design and Web Development.
-- 🌱 I’m currently learning Bootstrap 4.
+- 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on Website building.
 - 📫 How to reach me : anushkachauhan1503@gmail.com
 
