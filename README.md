@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anushka Chauham.
+- 👋 Hi, I’m Anushka Chauhan.
 - 👀 I’m interested in Design and Web Development.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on Website building.
