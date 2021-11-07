@@ -30,7 +30,7 @@
 * 🎯  Current Goal: Building a complete website including frontend and backend.
 * 🌻  Open to Collaboration.
 * ⭐  Open to freelancing in Design as well as Web Development.
-* ✉️  Contact me at : anushkachauhan1503@gmail.com
+* ✉️  Contact me at : <a href="mailto:anushkachauhan1503@gmail.com"><img src="https://img.shields.io/static/v1?label=%F0%9F%92%8C&message=anushkachauhan1503@gmail.com&labelColor=4E4E4E&height=30&color=FB8C01" alt="anushkachauhan1503@gmail.com" valign="middle"></a>
 
 <br>
 
