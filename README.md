@@ -20,6 +20,9 @@
 <a href="">
   <img align="left" width="36" alt="Anushka Medium" src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
 </a>
+<a href="https://codepen.io/anushkachauhan">
+  <img align="left" width="36" alt="Anushka CodePen" src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/>
+</a>
 
 <br><br>
 
