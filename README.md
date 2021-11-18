@@ -54,20 +54,20 @@
 
 ## 📈 GitHub Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanushka&theme=ayu-mirage" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkachauhxn&theme=ayu-mirage" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chauhanushka&show_icons=true&theme=ayu-mirage" alt="Anushka's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkachauhxn&show_icons=true&theme=ayu-mirage" alt="Anushka's GitHub Stats" />
 
 <br><br>
 
 ### 🔥 My Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chauhanushka)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkachauhxn)
 
 <br>
 
 ### 🐍 Watch a snake eating my GitHub Contribution Graph
 
-![Snake gif](https://github.com/chauhanushka/chauhanushka/blob/output/github-contribution-grid-snake.gif)
+![Snake gif](https://github.com/anushkachauhxn/anushkachauhxn/blob/output/github-contribution-grid-snake.gif)
 
 
