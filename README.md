@@ -17,7 +17,7 @@
 <a href="https://dribbble.com/anushka_creates">
   <img align="left" width="36" alt="Anushka Dribbble" src="https://img.icons8.com/fluency/48/000000/dribbble-circled.png" />
 </a>
-<a href="anushkachauhan.medium.com">
+<a href="https://anushkachauhan.medium.com/">
   <img align="left" width="36" alt="Anushka Medium" src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
 </a>
 <a href="https://codepen.io/anushkachauhan">
