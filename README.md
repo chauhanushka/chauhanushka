@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/anushka-chauhan-313951194" target="_blank">
+<a href="https://www.linkedin.com/in/anushka-chauhan" target="_blank">
   <img align="left" width="36" alt="Anushka LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="https://www.twitter.com/anushka_creates" target="_blank">
