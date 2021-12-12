@@ -54,13 +54,13 @@
 
 ## 📈 GitHub Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkachauhxn&theme=ayu-mirage" />
+<img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkachauhxn&theme=ayu-mirage&count_private=true&layout=compact&langs_count=8&hide=html" alt="Anushka's Most Used Languages" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkachauhxn&show_icons=true&theme=ayu-mirage" alt="Anushka's GitHub Stats" />
+<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=anushkachauhxn&show_icons=true&theme=ayu-mirage&count_private=true" alt="Anushka's GitHub Stats" />
 
-<br><br>
+<br>
 
-### 🔥 My Streaks
+## 🔥 My Streaks
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkachauhxn)
 
