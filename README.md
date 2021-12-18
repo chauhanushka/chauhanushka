@@ -2,25 +2,25 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/anushka-chauhan" target="_blank">
+<a href="https://www.linkedin.com/in/anushka-chauhan">
   <img align="left" width="36" alt="Anushka LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
-<a href="https://www.twitter.com/anushka_creates" target="_blank">
+<a href="https://www.twitter.com/anushka_creates">
   <img align="left" width="36" alt="Anushka Twitter" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
 </a>
-<a href="https://www.instagram.com/singularity.456" target="_blank">
+<a href="https://www.instagram.com/singularity.456">
   <img align="left" width="36" alt="Anushka Instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
-<a href="https://www.behance.net/anushka_creates" target="_blank">
+<a href="https://www.behance.net/anushka_creates">
   <img align="left" width="36" alt="Anushka Behance" src="https://img.icons8.com/color/48/000000/behance.png"/>
 </a>
-<a href="https://dribbble.com/anushka_creates" target="_blank">
+<a href="https://dribbble.com/anushka_creates">
   <img align="left" width="36" alt="Anushka Dribbble" src="https://img.icons8.com/fluency/48/000000/dribbble-circled.png" />
 </a>
-<a href="https://anushkachauhan.medium.com/" target="_blank">
+<a href="https://medium.com/@anushkachauhan">
   <img align="left" width="36" alt="Anushka Medium" src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
 </a>
-<a href="https://codepen.io/anushkachauhan" target="_blank">
+<a href="https://codepen.io/anushkachauhan">
   <img align="left" width="36" alt="Anushka CodePen" src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/>
 </a>
 
