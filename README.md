@@ -54,9 +54,9 @@
 
 ## 📈 GitHub Stats
 
-<img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkachauhxn&theme=ayu-mirage&count_private=true&layout=compact&langs_count=8&hide=html" alt="Anushka's Most Used Languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkachauhxn&theme=vision-friendly-dark&count_private=true&hide=html" alt="Anushka's Most Used Languages" />
 
-<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=anushkachauhxn&show_icons=true&theme=ayu-mirage&count_private=true" alt="Anushka's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkachauhxn&show_icons=true&theme=vision-friendly-dark" alt="Anushka's GitHub Stats" />
 
 <br>
 
