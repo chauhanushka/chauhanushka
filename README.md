@@ -5,16 +5,16 @@
 <a href="https://www.linkedin.com/in/anushka-chauhan">
   <img align="left" width="36" alt="Anushka LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
-<a href="https://www.twitter.com/anushka_creates">
+<a href="https://twitter.com/anushkachauhxn">
   <img align="left" width="36" alt="Anushka Twitter" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
 </a>
 <a href="https://www.instagram.com/singularity.456">
   <img align="left" width="36" alt="Anushka Instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
-<a href="https://www.behance.net/anushka_creates">
+<a href="https://www.behance.net/anushkachauhan">
   <img align="left" width="36" alt="Anushka Behance" src="https://img.icons8.com/color/48/000000/behance.png"/>
 </a>
-<a href="https://dribbble.com/anushka_creates">
+<a href="https://dribbble.com/anushkachauhan">
   <img align="left" width="36" alt="Anushka Dribbble" src="https://img.icons8.com/fluency/48/000000/dribbble-circled.png" />
 </a>
 <a href="https://medium.com/@anushkachauhan">
