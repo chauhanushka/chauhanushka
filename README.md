@@ -28,7 +28,7 @@
 
 ## 👀 I’m interested in Design and Web Development.
 
-* 🚩  I’m doing projects in React and VanillaJS right now. Also involved in flutter app development.
+* 🚩  I’m doing projects in React and VanillaJS right now. Also involved in Flutter app development.
 * 👾  I’m currently learning Server-side Development with NodeJS, Express and MongoDB.
 * 🎯  Current Goal: Building a complete website including frontend and backend.
 * 🌻  Open to Collaboration.
